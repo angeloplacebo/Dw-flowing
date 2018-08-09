@@ -1,0 +1,26 @@
+[
+    {
+        "nome":"cadeira 1",
+        "status":"livre"
+    },
+    {
+        "nome":"cadeira 2",
+        "status":"livre"
+    },
+    {
+        "nome":"cadeira 3",
+        "status":"livre"
+    },
+    {
+        "nome":"cadeira 4",
+        "status":"livre"
+    },
+    {
+        "nome":"cadeira 5",
+        "status":"livre"
+    },
+    {
+        "nome":"cadeira 6",
+        "status":"livre"
+    }
+]
